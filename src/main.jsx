@@ -2,7 +2,7 @@ import React, { useEffect, useMemo, useState } from "react";
 import { createRoot } from "react-dom/client";
 import "./styles.css";
 
-const DEFAULT_IMAGE = "https://i.ibb.co/8LPMfNq3/Screenshot-11.png";
+const DEFAULT_IMAGE = "../public/images/Screenshot_11.png";
 
 const SIZE = 4;
 
